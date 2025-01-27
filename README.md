@@ -4,7 +4,7 @@
 
 This Contact Management App is a simple yet efficient application to manage contacts. Users can add, edit, and delete contact details using an intuitive UI built with Material-UI. The app uses a Node.js backend with a MongoDB database to store and manage contact information. 
 
-I have hosted the application here on https://contact-app-mu-three.vercel.app.
+I have hosted the application here on https://contact-app-ten-mu.vercel.app.
 
 If you'd like to run the project locally, follow the instructions below.
 
